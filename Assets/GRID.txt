@@ -1,0 +1,5 @@
+Floor
+Details (detalles suelo y muros)
+
+Assets (objetos que componen el escenario)
+Collision
